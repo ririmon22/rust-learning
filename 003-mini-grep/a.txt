@@ -1,0 +1,5 @@
+Rust is fast.
+Rust is memory-safe.
+Trust me, Rust is great.
+This language is amazing.
+We trust Rust.
