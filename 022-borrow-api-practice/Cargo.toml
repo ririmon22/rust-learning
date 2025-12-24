@@ -1,0 +1,6 @@
+[package]
+name = "borrow_api_practice_022"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
