@@ -1,0 +1,6 @@
+[package]
+name = "use_trait_generics_025"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
